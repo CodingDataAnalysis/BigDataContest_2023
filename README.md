@@ -24,7 +24,7 @@
 
 ★ **100MB 가 넘어가는 파일의 경우 Reject 되므로, LFS 처리를 해주어야 합니다!**
 [LFS 설치 가이드](https://github.com/git-lfs/git-lfs/wiki/Installation)
-
+https://knowallworld.tistory.com/90
 ==> 참고 ==> 안된다면 "git hub Lfs 쓰고 싶어 명령어들 다 보여줘" ==> ChatGpt선생님에게 여쭤봅니다!
 
 ==> 만약 LFS 용량을 넘어서는 30GB 이상일 경우 "반디집" 다운 후 ==> 쪼개기 저장 활용합니다
