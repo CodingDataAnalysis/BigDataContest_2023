@@ -9,7 +9,7 @@
 
 
 
-<mark> 1. 위에 있는 git 마우스 갖다 데기 </mark>
+**1. 위에 있는 git 마우스 갖다 데기**
 
 2. clone 클릭 ==> [CodingDataAnalysis/BigDataContest_2023](https://github.com/CodingDataAnalysis/BigDataContest_2023) 클릭 후 clone 클릭
 
@@ -23,9 +23,9 @@
 
 
 
-==========
+==============================================================================================
 
-★ 100MB 가 넘어가는 파일의 경우 Reject 되므로, LFS 처리를 해주어야 합니다!
+★ **100MB 가 넘어가는 파일의 경우 Reject 되므로, LFS 처리를 해주어야 합니다!**
 https://knowallworld.tistory.com/90
 
 ==> 참고 ==> 안된다면 "git hub Lfs 쓰고 싶어 명령어들 다 보여줘" ==> ChatGpt선생님에게 여쭤봅니다!
